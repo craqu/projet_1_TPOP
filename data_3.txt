@@ -1,0 +1,5 @@
+--carton-collé--
+caméra-objet [cm]:          20.0
+distance-eau-objet [cm]:    0.0
+température-eau [C^o]:      85.3
+épaisseur du carton [cm]:   3-4mm  
