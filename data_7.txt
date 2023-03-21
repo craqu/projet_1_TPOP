@@ -1,0 +1,5 @@
+--Bois-espacé--
+caméra-objet [cm]:          20.0
+distance-eau-objet [cm]:    10.0
+température-eau [C^o]:      94.4
+épaisseur du bois [cm]:     1.5
