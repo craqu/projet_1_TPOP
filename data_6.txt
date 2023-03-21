@@ -1,0 +1,5 @@
+--carton-espacé--
+caméra-objet [cm]:          20.0
+distance-eau-objet [cm]:    5.0
+température-eau [C^o]:      89.6
+épaisseur du carton [mm]:   22  
